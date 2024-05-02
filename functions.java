@@ -58,13 +58,42 @@ public class functions {
     //     }
     // }
 
-    public static void result(int n){
-        Scanner sc = new Scanner(System.in);
-        int n= sc.nextInt();
+// SUM OF NUMBERS ALL DIGIT
+    
+    // public static void main(String args[]){
+    //     Scanner sc = new Scanner(System.in);
+    //     int n= sc.nextInt();
 
-        result(n);
-    }
-    public static void main(String args[]){
+    //     result(n);
+    // }
+
+
+    // public static void result(int n){
+
+    //     int sum=0;
+    //     while(n>0){
+    //         int np = n % 10;
+    //         sum = sum + np;
+    //         n = n / 10;
+    //     }
+    //     System.out.println(sum);
         
+    // }
+
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+
+        result(str);
     }
+
+    public static void result(String s){
+
+        
+
+    }
+
+
+
+
 }

@@ -566,7 +566,7 @@ int number[]=new int[45];
 
 int number[]={1,2,3};
 
-int morenumner[]={1,2,3,4,5};
+int morenumber[]={1,2,3,4,5};
 
 String fruits[]={"apple","mango","graps"};
 
@@ -585,9 +585,9 @@ ________________________________________________________________________________
 
 ArrayList(Collection framework)
 
-1.size variable
-2.only store objects
-3.heap concept memory allocation
+1. size variable
+2. only store objects
+3. heap concept memory allocation
 
 function of arrList::
 
