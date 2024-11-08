@@ -383,6 +383,7 @@ System.out.println("removed value is"+ dict.remove(102));
 
 
 Difference Between the HashMap and Dictionary Class
+
 The Java HashMap class and the Dictionary class both perform a similar function. The only difference is 
 that HashMap implements the Map Interface while the Dictionary class does not. According to Java documentation, 
 the Dictionary class is no longer in use because it is outdated. Instead of the Dictionary class, the HashMap 
@@ -505,6 +506,39 @@ HashMap<Integer, Integer> hmap = new HashMap<>();
             hmap.put(a, b);
 
             System.out.println(hmap.put(a, b));
+
+
+
+
+
+
+
+HashSet --> (for unique elements)
+
+first :: import java.util.Hashset;
+         import java.util.iterat0r;
+          
+
+HashSet<Integer> set = new HashSet<>();
+
+set.add(1);
+set.remove(1);
+set.size(); // gives set size
+
+The getOrDefault(Object key, V defaultValue) method of Map interface, implemented by HashMap class is used 
+to get the value mapped with specified key. If no value is mapped with the provided key then the default 
+value is returned.
+
+
+
+iterator ::
+
+Iterator it = set.iterator();
+
+it.next();
+
+it.hasNext(); // gives true or false (at last position it gives false)
+
 
 
 
@@ -682,6 +716,19 @@ Syntex::
 Implementation using ArrayList
 
 
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
+
+Recursion::
+
+It is a method of solving a computational problem where the solution depends on solution to smaller instance
+of the problem.
+
+>> Call stack
+>> Stack Overflow
 
 
 
+
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________

@@ -1,2 +1,40 @@
-// Create A class 
+// Create A class
 
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
+
+Excess Modifier
+
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
+
+Encapsulation::
+It is define as the wrapping ofthe data & methods under a single unit.it also implements data hiding.
+
+Constructors::
+-->it is a special method which is invoked automatically at the time of object creation.
+-->it have the same name as class or sturucture
+-->it don't have return type
+-->they are only called once, at object creation
+-->memory allocation happens when constructor is called
+
+Types of constructors::
+1. non parametized
+2. parameterized
+3. copy constructor
+
+
+
+Destructors::
+
+Inheritance::
+
+It is when properties & method of base class are passed on to derieved class.
+
+
+
+
+
+
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
