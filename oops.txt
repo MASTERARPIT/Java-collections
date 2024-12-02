@@ -38,3 +38,9 @@ It is when properties & method of base class are passed on to derieved class.
 
 __________________________________________________________________________________________________________
 __________________________________________________________________________________________________________
+Multi dimensional ArrayList::List of List
+ArrayList<ArrayList<Integer>> List=new ArrayList<>();
+
+
+
+
