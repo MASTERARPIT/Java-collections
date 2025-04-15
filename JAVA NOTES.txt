@@ -267,7 +267,11 @@ compare String = s1.compareTo(s2);(on the basic of lexograpgic order)
 
 
 
-String builder-->
+String builder - 
+
+StringBuilder in Java represents a mutable sequence of characters.
+It allow us to build new string without creating new string.
+
 StringBuilder sb = new StringBuilder("String");
 System.out.print(sb);
 

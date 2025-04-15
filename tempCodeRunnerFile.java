@@ -1,1 +1,1 @@
-|| Union.get(Union.size()-1)!=arr1[i]
+Arrays.sort(arr);
